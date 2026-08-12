@@ -32,6 +32,6 @@ Clover_Machine
  Учится программировать
  Создатель WORLD_MACHINE
 
-GitHub профиль
+
 
 
